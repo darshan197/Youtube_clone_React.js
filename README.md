@@ -1,1 +1,1 @@
-# Youtube clone developer using React.js
+# Youtube clone developed using React.js
